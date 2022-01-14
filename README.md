@@ -6,7 +6,7 @@ dir='rtl'
 > app showcase 1.blender
 <img src="https://github.com/hedihadi/App-Showcase/raw/master/render%201.png" alt="drawing" width="300"/>
 
-> app showcase 1.blender
+> app showcase 2.blender
 <img src="https://github.com/hedihadi/App-Showcase/raw/master/render%202.png" alt="drawing" width="300"/>
 <br /><br />
 
