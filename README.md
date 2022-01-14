@@ -4,17 +4,21 @@ dir='rtl'
 پرۆجێکتێکی blender دەتوانیت بەکاری بهێنیت بۆ نیشان دانی ئەپلیکەیشنەکەت لەسەر مۆبایلی شاومی
 
 > app showcase 1.blender
-<img src="https://github.com/hedihadi/App-Showcase/raw/master/render%201.png" alt="drawing" width="300"/>
-
+<img src="https://github.com/hedihadi/App-Showcase/raw/master/render%201.png" alt="drawing" width="200"/>
 > app showcase 2.blender
-<img src="https://github.com/hedihadi/App-Showcase/raw/master/render%202.png" alt="drawing" width="300"/>
+<img src="https://github.com/hedihadi/App-Showcase/raw/master/render%202.png" alt="drawing" width="200"/>
+> app showcase 3.blender
+<img src="https://github.com/hedihadi/App-Showcase/raw/master/render%203.png" alt="drawing" width="200"/>
+> app showcase 4.blender
+<img src="https://github.com/hedihadi/App-Showcase/raw/master/render%204.png" alt="drawing" width="200"/>
 <br /><br />
 
 فایلی blender دابەزێنە و وێنە بۆ ئەپلیکەیشنەکەت دروست بکە<br />
 
-[app showcase 1.blend](https://github.com/hedihadi/App-Showcase/raw/master/app%20showcase%201.blend) <br />
-[app showcase 2.blend](https://github.com/hedihadi/App-Showcase/raw/master/app%20showcase%202.blend)
-
+[app showcase 1.blend](https://github.com/hedihadi/App-Showcase/raw/master/app%20showcase%201.blend)<br />
+[app showcase 2.blend](https://github.com/hedihadi/App-Showcase/raw/master/app%20showcase%202.blend)<br />
+[app showcase 3.blend](https://github.com/hedihadi/App-Showcase/raw/master/app%20showcase%203.blend)<br />
+[app showcase 4.blend](https://github.com/hedihadi/App-Showcase/raw/master/app%20showcase%204.blend)
 <br />
 <br />
 
