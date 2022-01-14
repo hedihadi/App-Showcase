@@ -1,5 +1,5 @@
 # App-Showcase
 
-[Kurdish](https://github.com/hedihadi/App-Showcase/raw/master/kurdish.md)
+[Kurdish](https://github.com/hedihadi/App-Showcase/tree/kurdish)
 <br />
-[English](https://github.com/hedihadi/App-Showcase/raw/master/english.md)
+[English](https://github.com/hedihadi/App-Showcase/tree/english)
